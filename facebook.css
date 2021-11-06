@@ -1,0 +1,166 @@
+.header{
+    background: #2975da;
+    width: 100%;
+    height: 85px;
+}
+body{
+    margin: 0;
+}
+.logo{
+    width: 50%;
+    padding-top: 32px;
+    float: left;
+}
+.login{
+    width: 50%;
+    float: left;
+    padding-top: 10px;
+    }
+.logo-text{
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+    text-decoration: none;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 170px;
+}
+.login-label{
+    color: white;
+    font-size: 11px;
+}
+.login-controls{
+    margin-left: 85px;
+}
+.forgotten{
+    color: white;
+    font-size: 11px;
+    text-decoration: none;
+}
+.sub-btn{
+    background: rgb(16, 78, 194);
+    color: white;
+    height: 20px;
+    border-color: rgb(16, 78, 194);
+    cursor: pointer;
+}
+.sub-btn:hover{
+    background: red;
+}
+.left-section{
+    width: 40%;
+    float: left;
+    padding-top: 100px;
+    padding-left: 150px;
+         
+}
+.right-section{
+    width: 60%
+    float: left;
+    padding-left: 50%;
+}
+.main-body{
+    background: linear-gradient(white,#e4e4ee);
+    width: 100%;
+    height: 600px;
+}
+.heading{
+    font-weight: bold;
+    font-size: 55px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(18, 122, 207);
+    margin-bottom: 0;
+}
+.para{
+    font-size: 24px;
+    margin-top: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.login-box{
+    background: white;
+    height: 300px;
+    width: 52%;
+    float: left;
+    margin-top: 50px;
+    padding-right: 5px;
+    margin-left: 50px;
+    padding-left: 5px;
+    border-radius: 10px;
+    align-items: center;
+}
+.login-steps{
+    box-sizing: border-box;
+    padding-top: 5px;
+    margin-left: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+.data{
+    color: grey;
+    font-size: 16px;
+    width: 9cm;
+    height: 1.2cm;
+    line-height: 2;
+    margin-bottom: 5px;
+    border-style: ridge;
+    border-radius: 6px;
+    border-color: rgb(224, 220, 220);
+    text-align: center;
+}
+.data:hover{
+    border-color: rgb(18, 122, 207);
+}
+.login-btn{
+    background:rgb(18, 122, 207);;
+    color: white;
+    font-size: 16px;
+    width: 9.2cm;
+    height: 1.2cm;
+    line-height: 2;
+    margin-bottom: 7px;
+    border-radius: 6px;
+    border-style: solid;
+    border-color: rgb(18, 122, 207);;
+    text-align: center;
+
+}
+.pass{
+    text-align: center;
+    color: rgb(18, 122, 207);;
+    margin-bottom: 5px;
+    margin-top: 2px;
+    font-size: 13px;
+}
+.pass:hover{
+    text-decoration: underline;
+}
+.line{
+    color: grey;
+}
+.create-btn{
+    background: rgb(18, 167, 18);
+    color: white;
+    font-size: 16px;
+    width: 6cm;
+    height: 1.2cm;
+    line-height: 2;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    border-radius: 6px;
+    border-style: solid;
+    border-color: rgb(18, 167, 18);
+    text-align: center;
+    margin-left: 1.6cm;
+    margin-right: 1cm;
+    align-items: center;
+}
+.sentence{
+    float:left;
+    margin-top: 20px;
+    margin-left: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+.bold:hover{
+    text-decoration: underline;
+
+}
